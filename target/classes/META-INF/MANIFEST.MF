@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: sidgarg
+Build-Jdk: 17.0.9
+Implementation-Title: MyAwesomeApp
+Implementation-Version: 0.0.1
+Implementation-Vendor-Id: com.tcs.angularjs
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/springbootApp
+Created-By: Maven Integration for Eclipse
+
